@@ -1,0 +1,9 @@
+AA sayısı=2 Yüzde:8
+BA sayısı=4 Yüzde:16
+BB sayısı=2 Yüzde:8
+CB sayısı=5 Yüzde:20
+CC sayısı=6 Yüzde:24
+DC sayısı=1 Yüzde:4
+DD sayısı=1 Yüzde:4
+FD sayısı=1 Yüzde:4
+FF sayısı=3 Yüzde:12

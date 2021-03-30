@@ -1,0 +1,7 @@
+C:\Users\pc dell\source\repos\NdpÖdev\NdpÖdev\bin\Debug\NdpÖdev.exe.config
+C:\Users\pc dell\source\repos\NdpÖdev\NdpÖdev\bin\Debug\NdpÖdev.exe
+C:\Users\pc dell\source\repos\NdpÖdev\NdpÖdev\bin\Debug\NdpÖdev.pdb
+C:\Users\pc dell\source\repos\NdpÖdev\NdpÖdev\obj\Debug\NdpÖdev.csprojAssemblyReference.cache
+C:\Users\pc dell\source\repos\NdpÖdev\NdpÖdev\obj\Debug\NdpÖdev.csproj.CoreCompileInputs.cache
+C:\Users\pc dell\source\repos\NdpÖdev\NdpÖdev\obj\Debug\NdpÖdev.exe
+C:\Users\pc dell\source\repos\NdpÖdev\NdpÖdev\obj\Debug\NdpÖdev.pdb
